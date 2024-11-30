@@ -1,0 +1,6 @@
+Lavalink 4.0.8
+
+Plugins
+- LavaSrc 4.3.0
+- Youtube Source 1.8.3
+- Skybot 1.7.0
